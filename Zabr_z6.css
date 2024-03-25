@@ -1,8 +1,15 @@
 <html>
 <head>
 <title>Zabrocki zadanie 6</title>
+<style rel="stylesheet" type="text/css">
+
+p {
+color:green;
+size:20px 
+}
+
 </head>
-<body  text="blue" >
+<body  text="blue" size:20px >
 <p style="text-align:center">  :D uśmiech </p>
 <p style="text-align:center" style="color=green">  :) zadowolenie  </p>
 <p style="text-align:center">  :'( płacz  </p>
